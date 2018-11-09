@@ -2,7 +2,7 @@
 
 This is the starter project of Udacity React course that creates a Book Tracking app.
 
-## TL;DR
+## Instructions
 
 To run the project:
 
