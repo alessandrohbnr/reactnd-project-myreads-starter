@@ -1,6 +1,6 @@
 # MyReads Project
 
-This is the starter project of Udacity React course that creates a Book Tracking app.
+This is the starter project of Udacity React nanodegree that creates a Book Tracking app.
 
 ## Instructions
 
